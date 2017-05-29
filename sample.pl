@@ -1,5 +1,7 @@
-numAsignatures(5).
+% Sintax: Number of courses you want to do this year
+numCourses(5).
 
+% Sintax: course( Name, courseGroup, Lectures). Lectures between 1 and 60 (from 8 to 20 each day)
 course('EDA', 1, [1,2,27,28]).
 course('EDA', 2, [7,8,35,36]).
 course('DB', 1, [1,2,26,28]).
