@@ -9,7 +9,8 @@ numCourses(5).
 You should put all the groups of every course you want to do this semester because the UniMaker will have more combinations to do.
 Secondly, to compile it is very simple, just type "make" in your bash terminal, and "./main > output1.txt", to save the resulting schedule in the output1.txt file.
 
-FUTURE CHANGES: 
+FUTURE CHANGES:
+
 1)In the future, I want to implement this program in a web page or in an app, in order to make a nicer and cleaner output.
 
 2)Improve the code by making the user capable of selecting a group of courses that are obligatory to be in the schedule of this semester.
